@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Carlos Cantos Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "portfolio",
+    "website"
+  ],
+  "author": "Carlos Cantos",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
